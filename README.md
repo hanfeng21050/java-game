@@ -28,8 +28,12 @@ jdk1.8.0_221
 
 
 
-
-
 ## 游戏
 
-![1570861139208](https://github.com/hanfeng21050/java-game/blob/master/1570861139208.png)
+![截图](截图.jpg)
+
+
+## 注意
+第一次运行需要将游戏音频放至game包下
+
+[网盘下载](https://pan.baidu.com/s/1pye-_QGD1K5QO0Y46ZOywQ)

@@ -12,6 +12,7 @@ public class Music {
         try {
             url = getClass().getResource(path); //解析地址
             aau = Applet.newAudioClip(url);
+
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -21,7 +22,9 @@ public class Music {
         aau.loop();
     }
 
-    public void play(){aau.play();}
+    public void play(){
+
+        aau.play();}
 
     public void stop() {
         aau.stop();
